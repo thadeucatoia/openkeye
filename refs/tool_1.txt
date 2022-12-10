@@ -1,0 +1,3 @@
+'tool_1.txt'
+Low Value: [48, 14, 20]
+Upper Value: [114, 98, 92]

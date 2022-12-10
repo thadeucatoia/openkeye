@@ -1,0 +1,34 @@
+{
+  "tool_1": {
+    "top_corner": [
+      275,
+      142
+    ],
+    "botton_corner": [
+      340,
+      209
+    ],
+    "low_rgb": [
+      124,
+      156,
+      86
+    ],
+    "high_rgb": [
+      125,
+      174,
+      93
+    ],
+    "lvl_up_trig": 1500,
+    "lvl_dw_trig": 300
+  },
+  "tool_2": {
+    "top_corner": [
+      234,
+      96
+    ],
+    "botton_corner": [
+      411,
+      201
+    ]
+  }
+}
